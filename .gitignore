@@ -2,3 +2,5 @@
 tmp
 .env
 /.env
+.idea
+/.idea
